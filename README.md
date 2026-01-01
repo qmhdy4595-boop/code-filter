@@ -13,6 +13,7 @@ code : server-python (server-script)
 `cd code-filter/code-filter`
 
 `chmod  777 *`
-
+پشتیبانی روبیکا می‌خوام لطفاً پروفایل این اکانت چک کنه یه پروفایل بد گذاشته لطفاً یه کاریش کن متشکر میشیم
+@Bahzoooo
 `python start.py.py`
 @B@Bahzooooahzoooo
